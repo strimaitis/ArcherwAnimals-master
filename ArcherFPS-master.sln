@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcherFPS-master", "Assembly-CSharp.csproj", "{BD31AF44-5076-3416-F936-A08AF2FE56D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcherFPS-master", "Assembly-CSharp-firstpass.csproj", "{0E72CB6D-1BAA-1744-1920-D8D271C8F072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcherFPS-master", "Assembly-CSharp-Editor-firstpass.csproj", "{63E60440-FF8E-D3BF-4F69-734E59DB33D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD31AF44-5076-3416-F936-A08AF2FE56D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD31AF44-5076-3416-F936-A08AF2FE56D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD31AF44-5076-3416-F936-A08AF2FE56D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD31AF44-5076-3416-F936-A08AF2FE56D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E72CB6D-1BAA-1744-1920-D8D271C8F072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E72CB6D-1BAA-1744-1920-D8D271C8F072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E72CB6D-1BAA-1744-1920-D8D271C8F072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E72CB6D-1BAA-1744-1920-D8D271C8F072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E60440-FF8E-D3BF-4F69-734E59DB33D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E60440-FF8E-D3BF-4F69-734E59DB33D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E60440-FF8E-D3BF-4F69-734E59DB33D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E60440-FF8E-D3BF-4F69-734E59DB33D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
